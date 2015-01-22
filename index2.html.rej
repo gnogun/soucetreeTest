@@ -1,0 +1,8 @@
+diff a/index2.html b/index2.html	(rejected hunks)
+@@ -4,3 +4,4 @@
+ 
+ 123123
+\ No newline at end of file
++aaaaa
+ conflict
+\ No newline at end of file
